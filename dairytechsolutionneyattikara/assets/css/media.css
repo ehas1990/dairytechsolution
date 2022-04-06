@@ -9,6 +9,10 @@
    
     word-wrap: break-word;
   }
+  #post-item-inner1
+  {
+      height: 530px;
+  }
   
 .logo{
     width: 120px;
