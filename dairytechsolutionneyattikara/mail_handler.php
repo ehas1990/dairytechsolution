@@ -5,7 +5,7 @@
 		$phone=$_POST['phone'];
 	
 		$msg=$_POST['msg'];
-
+		$to='dairytechsolutions@gmail.com'; 
 		$to='info@dairytechsolutions.com'; // Receiver Email ID, Replace with your email ID
 		$subject='Dairytech solutions';
 		$message="Name :".$name."\n"."Phone :".$phone."\n".$msg;
