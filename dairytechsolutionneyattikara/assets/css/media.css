@@ -156,11 +156,8 @@ figure img{
     {
         height: fit-content !important;
     }
-    #figure_img
-    {
-    
-            margin-top: 523px !important;
-      
+    #figure-image {
+        margin-top: 1240px !important;
     }
     #ismart
     {
@@ -218,6 +215,10 @@ figure img{
         margin-bottom: 0;
         font-size: 12px !important;
     }
+    #container
+    {
+        margin-top: 30px !important;
+    }
 }
 @media only screen 
   and (min-device-width: 320px) 
@@ -225,7 +226,7 @@ figure img{
   {
     #figure-image
     {
-        margin-top: 260px !important;
+        margin-top: 800px !important;
     
     }
     #milko-benefit
@@ -292,7 +293,7 @@ figure img{
 {
     #figure-image
     {
-        margin-top: 220px !important;
+        margin-top: 530px !important;
     
     }
     #milko-benefit
@@ -359,7 +360,7 @@ figure img{
 {
     #figure-image
     {
-        margin-top: 220px !important;
+        margin-top: 433px !important;
     
     }
     #milko-benefit
@@ -433,11 +434,8 @@ figure img{
     {
         height:390px !important;
     }
-    #figure_img
-    {
-    
-            margin-top: 220px !important;
-      
+    #figure-image {
+        margin-top: 298px !important;
     }
     #section-wrapper
     {
@@ -475,5 +473,16 @@ figure img{
         background-position: center top;
         background-size: cover;
         padding-bottom: 570px !important;
+    }
+    .padding-tb {
+        padding: 156px 0 !important;
+    }
+}
+@media only screen 
+  and (min-device-width:900px) 
+  and (max-device-width:1300px)
+{
+    .padding-tb {
+        padding: 156px 0 !important;
     }
 }

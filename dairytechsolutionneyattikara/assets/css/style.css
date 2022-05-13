@@ -8204,3 +8204,15 @@ div#scrollbar::-webkit-scrollbar-thumb {
 }
 
 /*# sourceMappingURL=style.css.map */
+#figure-image
+{
+  margin-top:75px;
+}
+.p{
+
+    font-size: 12px;
+    margin: 0 0 1em;
+    color: #505050;
+    line-height: 1.625rem;
+
+}
