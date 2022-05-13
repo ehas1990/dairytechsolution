@@ -423,7 +423,7 @@ figure img{
 {
     #figure-image
     {
-        margin-top: 220px !important;
+        margin-top: 445px !important;
     
     }
     #milko-about
@@ -484,5 +484,10 @@ figure img{
 {
     .padding-tb {
         padding: 156px 0 !important;
+    }
+     #figure-image
+    {
+        margin-top: 400px !important;
+    
     }
 }
