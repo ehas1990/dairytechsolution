@@ -3223,6 +3223,7 @@ div#scrollbar::-webkit-scrollbar-thumb {
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   transition: all 0.3s ease;
+  height:75px;
 }
 .primary-menu .menu-area .logo {
   padding: 12px 0;
@@ -3242,10 +3243,10 @@ div#scrollbar::-webkit-scrollbar-thumb {
 }
 .primary-menu .menu-area ul.main-menu li a {
   color: #181818;
-  padding: 38px 10px;
+  padding: 27px 10px;
   display: inline-block;
   margin: 0 10px;
-  font-weight: 400;
+  font-weight:600;
   position: relative;
   text-transform: capitalize;
   outline: none;
